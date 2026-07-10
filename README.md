@@ -43,7 +43,7 @@ For small matrix sizes, the CPU performs at $\sim 1.03$ GFLOPS. However, at size
 
 ## Getting Started
 
-### 0. Fetch Dependencies (Like `npm install`)
+### 0. Fetch Dependencies
 Since OpenCL headers are third-party dependencies, they are ignored by Git. Before compiling, fetch them from the official Khronos Group repository:
 ```bash
 git clone --depth 1 https://github.com/KhronosGroup/OpenCL-Headers.git third_party/OpenCL-Headers
