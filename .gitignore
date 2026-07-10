@@ -2,7 +2,6 @@
 *.exe
 *.o
 *.obj
-*.log
 
 # IDE and System Files
 .vscode/
@@ -11,3 +10,7 @@
 .agents/
 Thumbs.db
 .DS_Store
+
+# Local build and third party dependencies
+*.log
+third_party/
