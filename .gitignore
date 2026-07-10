@@ -1,0 +1,13 @@
+# Compiled Binaries
+*.exe
+*.o
+*.obj
+*.log
+
+# IDE and System Files
+.vscode/
+.idea/
+.gemini/
+.agents/
+Thumbs.db
+.DS_Store
